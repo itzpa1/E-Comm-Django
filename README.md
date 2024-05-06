@@ -1,4 +1,4 @@
-<h2>E-commerce site</h3>
+<h2>E-Commerce site  || ShopKaro</h3>
 <p>
   <h4>Tools Which I have used</h3>
   <p>HTML | CSS | Bootstrap | Python | Django</p>
